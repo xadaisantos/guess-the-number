@@ -1,0 +1,10 @@
+9
+dog
+cat
+cow
+horse
+whale
+sheep
+pig
+chicken
+shark
